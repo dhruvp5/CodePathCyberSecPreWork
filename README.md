@@ -29,6 +29,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src="https://github.com/dhruvp5/CodePathCyberSecPreWork/blob/master/PreWork.gif?raw=true" alt="gif">
 
+<img src="https://github.com/dhruvp5/CodePathCyberSecPreWork/blob/master/PreWork_1.gif?raw=true" alt="gif">
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
