@@ -1,4 +1,3 @@
-# CodePathCyberSecPreWork
 # Cybersecurity Pre-Work - *dhruvp5* 
 
 Time spent: **1** hours spent in total 
